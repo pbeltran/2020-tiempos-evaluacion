@@ -115,7 +115,7 @@ Fuente: Arnal-Bailera, Muñoz-Escolano, & Oller-Marcén (2016)
 
 > Tres grupos de profesores en base a sus comentarios, según la argumentación empleada por el alumno, la corrección matemática de la respuesta y la concordancia entre el método empleado y el esperado. 
 
-1. Elevada exigencia de argumentación, proporciona las calificaciones globalmente más bajas. 
+1. Elevada exigencia de argumentación, proporciona las calificaciones más bajas. 
 2. Considera adecuadas la argumentación y la corrección matemática de los tres métodos, muestra un ligero sesgo en contra de la respuesta del método 3. 
 3. Clara penalización a la respuesta del método 3.
 
